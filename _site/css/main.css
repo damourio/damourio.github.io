@@ -577,16 +577,14 @@ cursor: default;
   }
   .blog-recent {
  /* display: none; */
-  order: 0;
 }
 
 
 .blog-cols {
-  flex-direction: column;
+  flex-direction: column-reverse;
 }
 .blog-previews {
   padding: 0;
-  /* order: 1; */
 }
 
 
